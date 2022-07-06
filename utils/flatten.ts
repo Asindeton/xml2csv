@@ -1,3 +1,4 @@
+// @ts-nocheck
 const flatten = (ob: object): object => {
     const result = {};
     for (const i in ob) {
